@@ -66,4 +66,4 @@ Don't forget to give the project a star! Thanks again!
 
 [repo-url]: https://github.com/layth49/AimTrainer-HB
 
-[verbalMemory-hb]: https://humanbenchmark.com/tests/aim
+[aimTrainer-hb]: https://humanbenchmark.com/tests/aim
